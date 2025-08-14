@@ -2,7 +2,7 @@
 
 ![Modern C# template](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Besty0728.)
 
-<h1 style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffeaa7, #dda0dd); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-family: 'Arial Black', sans-serif; font-size: 2.5em; text-align: center; font-weight: bold;">你好啊，欢迎来到我的主页</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=🌈%20你好啊，欢迎来到我的主页%20✨&fontSize=28&fontColor=fff&animation=twinkling" />
 
 </div>
 
