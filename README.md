@@ -41,6 +41,8 @@
 
 ![Nginx](https://img.shields.io/badge/技能-Nginx-green)
 ![服务器运维](https://img.shields.io/badge/技能-服务器运维-purple)
+![CloudFlare](https://img.shields.io/badge/技能-CloudFlare-orange)
+![EdgeOne](https://img.shields.io/badge/技能-EdgeOne-blue)
 
 [![联系我](https://img.shields.io/badge/联系我-邮箱-pink)](mailto:a2120060205@icloud.com)
 
