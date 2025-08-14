@@ -2,7 +2,7 @@
 
 ![Modern C# template](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Besty0728.)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=🌈%20你好啊，欢迎来到我的主页%20✨&fontSize=28&fontColor=fff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=🌈%20你好啊，欢迎来到我的主页%20✨&fontSize=28&fontColor=333333&animation=twinkling" />
 
 </div>
 
