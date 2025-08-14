@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 ![Modern C# template](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Besty0728.)
 
@@ -28,7 +28,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Besty0728&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-<div style="text-align: center;">
+<div align="center">
 
 ## 🔗 联系方式 & 技能标签
 
