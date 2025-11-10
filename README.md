@@ -52,6 +52,6 @@
 
 [![联系我](https://img.shields.io/badge/联系我-邮箱-pink)](mailto:a2120060205@icloud.com)
 
-![头像](https://image.ai0728.com.cn/file/package/1754933714455_IMG_1380.jpeg)
+![头像](https://images.ai0728.com.cn/file/package/1754933714455_IMG_1380.jpeg)
 
 </div>
