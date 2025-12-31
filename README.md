@@ -32,7 +32,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Besty0728/Besty0728/output/github-contribution-grid-snake.svg">
 </picture>
 
-[Betsy's GitHub stats](https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Besty0728&theme=dracula&locale=cn&border_radius=12）
+[![Betsy's GitHub stats](https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Besty0728&theme=dracula&locale=cn&border_radius=12)](https://www.micostar.cc)
 
 <div align="center">
 
