@@ -10,10 +10,7 @@
 
 <!-- 个人资料徽章 -->
 <div>
-  <img src="https://komarev.com/ghpvc/?username=Besty0728&style=for-the-badge&color=blueviolet&label=访问量" alt="Profile Views" />
-  <a href="https://www.micostar.cc">
-    <img src="https://img.shields.io/badge/博客-micostar.cc-667eea?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Besty0728&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 </div>
@@ -189,7 +186,7 @@ fun_fact: "用咖啡驱动代码，用音乐点亮灵感 ☕🎵"
 
 <br/><br/>
 
-<img src="https://images.ai0728.com.cn/file/package/1754933714455_IMG_1380.jpeg" width="200" style="border-radius: 50%;" alt="Avatar" />
+<img src="https://images.ai0728.com.cn/file/package/1754933714455_IMG_1380.jpeg" width="280" style="border-radius: 50%;" alt="Avatar" />
 
 </div>
 
