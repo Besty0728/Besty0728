@@ -186,7 +186,7 @@ fun_fact: "用咖啡驱动代码，用音乐点亮灵感 ☕🎵"
 
 <br/><br/>
 
-<img src="https://images.ai0728.com.cn/file/package/1754933714455_IMG_1380.jpeg" width="280" style="border-radius: 50%;" alt="Avatar" />
+<img src="https://images.ai0728.com.cn/file/package/1754933714455_IMG_1380.jpeg" width="360" style="border-radius: 16px;" alt="Avatar" />
 
 </div>
 
