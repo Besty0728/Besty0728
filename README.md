@@ -1,62 +1,206 @@
 <div align="center">
 
-![Modern C# template](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Besty0728.)
+<!-- 动态打字效果 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=✨+Besty0728;🎮+Unity+开发者+%7C+🎵+音乐爱好者" alt="Typing SVG" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=🌈%20你好啊，欢迎来到我的主页%20✨&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=40" />
+<!-- 渐变波浪头图 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:66a6ff&height=180&section=header&text=🌈%20欢迎来到我的主页&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=用代码构建虚拟世界%20·%20用音乐感受生活&descSize=14&descAlignY=55" width="100%" />
 
-</div>
-
-# 👋 关于我 (About Me)
-
-我是一名 **Unity 开发者** 和 **音乐爱好者**，专注于使用 C# 和 Unity 引擎创造有趣、流畅的交互体验。我对 AI 模型以及服务器充满兴趣，并喜欢探索如何让虚拟世界变得更加智能和生动。
-
-### 🌱 我正在深入学习
-- Unity 的 MR（混合现实）开发
-- Web 服务对接
-- Linux 服务器运维
-
-### 👯 我目前没有合作的想法，或许以后会......
-
-### 🤔 我目前正在学业中，暂时没有工作想法，想要更多学习机会
-
-### 💬 随时可以问我关于 Unity、C#、Node.js 或 游戏开发 的任何问题，我会尽我所能
-
-### ⚡ 有趣的事实
-我也是一个 **音乐爱好者** 🎵
-
-## 📊 我的 GitHub 数据
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Besty0728/Besty0728/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Besty0728/Besty0728/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Besty0728/Besty0728/output/github-contribution-grid-snake.svg">
-</picture>
-
-<div align="center">
+<!-- 个人资料徽章 -->
+<div>
+  <img src="https://komarev.com/ghpvc/?username=Besty0728&style=for-the-badge&color=blueviolet&label=访问量" alt="Profile Views" />
   <a href="https://www.micostar.cc">
-    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Besty0728&theme=dracula&locale=cn&border_radius=12" alt="Betsy's GitHub stats" />
+    <img src="https://img.shields.io/badge/博客-micostar.cc-667eea?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
   </a>
 </div>
 
+</div>
+
+---
+
+## �‍💻 关于我
+
+```yaml
+name: Besty0728
+title: Unity 开发者 & 音乐爱好者
+location: 中国 🇨🇳
+interests:
+  - 🎮 Unity/C# 游戏与交互开发
+  - 🥽 MR 混合现实体验探索
+  - 🤖 AI 模型集成与应用
+  - 🌐 Node.js/Web 服务开发
+  - 🐧 Linux 服务器运维
+  - � 音乐
+currently_learning:
+  - Unity MR 混合现实开发
+  - Web 服务对接
+  - Linux 服务器运维
+fun_fact: "用咖啡驱动代码，用音乐点亮灵感 ☕🎵"
+```
+
+---
+
+## �️ 技术栈
 
 <div align="center">
 
-## 🔗 联系方式 & 技能标签
+<!-- 核心开发 -->
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
-[![B站](https://img.shields.io/badge/B站-流转星-yellow)](https://space.bilibili.com/420378171)
-[![Modern C#](https://img.shields.io/badge/code-Modern%20CSharp-blue)](https://learn.microsoft.com/zh-cn/dotnet/csharp/tour-of-csharp) 
+<br/>
 
-![擅长 AI 应用](https://img.shields.io/badge/擅长-AI应用-yellow) 
-![专业 Unity 开发](https://img.shields.io/badge/专业-Unity开发-orange) 
-![爱好音乐](https://img.shields.io/badge/爱好-音乐-red)
+<!-- 云服务与运维 -->
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/腾讯云_EdgeOne-0052CC?style=for-the-badge&logo=tencentqq&logoColor=white" alt="EdgeOne" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
-![Nginx](https://img.shields.io/badge/技能-Nginx-green)
-![服务器运维](https://img.shields.io/badge/技能-服务器运维-purple)
-![CloudFlare](https://img.shields.io/badge/技能-CloudFlare-orange)
-![EdgeOne](https://img.shields.io/badge/技能-EdgeOne-blue)
+<br/>
 
-[![联系我](https://img.shields.io/badge/联系我-邮箱-pink)](mailto:a2120060205@icloud.com)
+<!-- 擅长领域 -->
+<img src="https://img.shields.io/badge/🎮_游戏开发-FF6B6B?style=for-the-badge" alt="游戏开发" />
+<img src="https://img.shields.io/badge/🤖_AI_应用-845EF7?style=for-the-badge" alt="AI应用" />
+<img src="https://img.shields.io/badge/🥽_MR_开发-22C55E?style=for-the-badge" alt="MR开发" />
+<img src="https://img.shields.io/badge/🔧_服务器运维-3B82F6?style=for-the-badge" alt="服务器运维" />
 
-![头像](https://images.ai0728.com.cn/file/package/1754933714455_IMG_1380.jpeg)
+</div>
+
+---
+
+## 📊 GitHub 统计
+
+<!-- 贡献蛇形图 - 亮/暗模式自动切换 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Besty0728/Besty0728/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Besty0728/Besty0728/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub 贡献蛇形动画" src="https://raw.githubusercontent.com/Besty0728/Besty0728/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<div align="center">
+
+<!-- Stats 卡片 - 透明主题 -->
+<a href="https://www.micostar.cc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Besty0728&show_icons=true&theme=transparent&locale=cn&border_radius=16&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Besty0728&show_icons=true&theme=transparent&locale=cn&border_radius=16&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
+    <img height="180em" src="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Besty0728&show_icons=true&theme=transparent&locale=cn&border_radius=16&hide_border=true" alt="Besty 的 GitHub 统计" />
+  </picture>
+</a>
+<a href="https://www.micostar.cc">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/top-langs/?username=Besty0728&layout=compact&theme=transparent&locale=cn&border_radius=16&title_color=a855f7&text_color=e2e8f0&hide_border=true&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/top-langs/?username=Besty0728&layout=compact&theme=transparent&locale=cn&border_radius=16&title_color=7c3aed&text_color=374151&hide_border=true&langs_count=8">
+    <img height="180em" src="https://github-readme-stats-ten-zeta-48.vercel.app/api/top-langs/?username=Besty0728&layout=compact&theme=transparent&locale=cn&border_radius=16&hide_border=true&langs_count=8" alt="常用语言" />
+  </picture>
+</a>
+
+</div>
+
+---
+
+## 📌 精选项目
+
+<div align="center">
+
+<a href="https://github.com/Besty0728/fuwari">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=fuwari&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=fuwari&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=fuwari&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="fuwari" />
+  </picture>
+</a>
+<a href="https://github.com/Besty0728/Prompt-Assistance">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Prompt-Assistance&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Prompt-Assistance&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Prompt-Assistance&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="Prompt-Assistance" />
+  </picture>
+</a>
+
+<a href="https://github.com/Besty0728/EO-Random-Photo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=EO-Random-Photo&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=EO-Random-Photo&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=EO-Random-Photo&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="EO-Random-Photo" />
+  </picture>
+</a>
+<a href="https://github.com/Besty0728/Gemini-CLI-Auth-Manager">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Gemini-CLI-Auth-Manager&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Gemini-CLI-Auth-Manager&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Gemini-CLI-Auth-Manager&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="Gemini-CLI-Auth-Manager" />
+  </picture>
+</a>
+
+<a href="https://github.com/Besty0728/MicoBlog">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=MicoBlog&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=MicoBlog&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=MicoBlog&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="MicoBlog" />
+  </picture>
+</a>
+<a href="https://github.com/Besty0728/TTS-UI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=TTS-UI&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=TTS-UI&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=TTS-UI&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="TTS-UI" />
+  </picture>
+</a>
+
+<a href="https://github.com/Besty0728/OpenWebUI-EdgeOne-AI-Gemini">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=OpenWebUI-EdgeOne-AI-Gemini&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=OpenWebUI-EdgeOne-AI-Gemini&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=OpenWebUI-EdgeOne-AI-Gemini&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="OpenWebUI-EdgeOne-AI-Gemini" />
+  </picture>
+</a>
+<a href="https://github.com/Besty0728/OpenWebUI-Cloudflare-OSS">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=OpenWebUI-Cloudflare-OSS&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=OpenWebUI-Cloudflare-OSS&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=OpenWebUI-Cloudflare-OSS&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="OpenWebUI-Cloudflare-OSS" />
+  </picture>
+</a>
+
+</div>
+
+---
+
+## 🌐 联系我
+
+<div align="center">
+
+<a href="https://space.bilibili.com/420378171">
+  <img src="https://img.shields.io/badge/B站-流转星-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
+</a>
+<a href="https://www.micostar.cc">
+  <img src="https://img.shields.io/badge/博客-micostar.cc-667eea?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
+</a>
+<a href="mailto:a2120060205@icloud.com">
+  <img src="https://img.shields.io/badge/邮箱-联系我-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+<img src="https://images.ai0728.com.cn/file/package/1754933714455_IMG_1380.jpeg" width="200" style="border-radius: 50%;" alt="Avatar" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:66a6ff&height=100&section=footer" width="100%" />
+
+**⭐ 感谢访问！如果喜欢我的项目，欢迎 Star ⭐**
+
+*Made with ❤️ by [Besty0728](https://github.com/Besty0728)*
 
 </div>
