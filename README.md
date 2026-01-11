@@ -17,29 +17,25 @@
 
 ---
 
-## �‍💻 关于我
+## 👨‍💻 关于我
 
-```yaml
-name: Besty0728
-title: Unity 开发者 & 音乐爱好者
-location: 中国 🇨🇳
-interests:
-  - 🎮 Unity/C# 游戏与交互开发
-  - 🥽 MR 混合现实体验探索
-  - 🤖 AI 模型集成与应用
-  - 🌐 Node.js/Web 服务开发
-  - 🐧 Linux 服务器运维
-  - � 音乐
-currently_learning:
-  - Unity MR 混合现实开发
-  - Web 服务对接
-  - Linux 服务器运维
-fun_fact: "用咖啡驱动代码，用音乐点亮灵感 ☕🎵"
-```
+> **Besty0728** · Unity 开发者 & 音乐爱好者 · 中国 🇨🇳
+
+**🎯 兴趣方向：**
+- 🎮 Unity/C# 游戏与交互开发
+- 🥽 MR 混合现实体验探索  
+- 🤖 AI 模型集成与应用
+- 🌐 Node.js/Web 服务开发
+- 🐧 Linux 服务器运维
+- 🎵 音乐
+
+**📚 正在学习：** Unity MR 开发 · Web 服务对接 · Linux 运维
+
+**💡 有趣的事：** *"用咖啡驱动代码，用音乐点亮灵感 ☕🎵"*
 
 ---
 
-## �️ 技术栈
+## 🛠️ 技术栈
 
 <div align="center">
 
@@ -186,7 +182,7 @@ fun_fact: "用咖啡驱动代码，用音乐点亮灵感 ☕🎵"
 
 <br/><br/>
 
-<img src="https://images.ai0728.com.cn/file/package/1754933714455_IMG_1380.jpeg" width="360" style="border-radius: 16px;" alt="Avatar" />
+![头像](https://images.ai0728.com.cn/file/package/1754933714455_IMG_1380.jpeg)
 
 </div>
 
