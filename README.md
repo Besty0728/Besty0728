@@ -182,7 +182,7 @@
 
 <br/><br/>
 
-![头像](https://images.ai0728.com.cn/file/package/1754933714455_IMG_1380.jpeg)
+![头像](https://images.ai0728.com.cn/file/package/1766934826023_IMG_1380.webp)
 
 </div>
 
