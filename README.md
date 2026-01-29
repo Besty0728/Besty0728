@@ -80,16 +80,16 @@
 <!-- Stats 卡片 - 透明主题 -->
 <a href="https://www.micostar.cc">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Besty0728&show_icons=true&theme=transparent&locale=cn&border_radius=16&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Besty0728&show_icons=true&theme=transparent&locale=cn&border_radius=16&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img height="180em" src="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Besty0728&show_icons=true&theme=transparent&locale=cn&border_radius=16&hide_border=true" alt="Besty 的 GitHub 统计" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Besty0728&show_icons=true&theme=transparent&locale=cn&border_radius=16&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true&v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Besty0728&show_icons=true&theme=transparent&locale=cn&border_radius=16&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true&v=1">
+    <img height="180em" src="https://github-readme-stats-ten-zeta-48.vercel.app/api?username=Besty0728&show_icons=true&theme=transparent&locale=cn&border_radius=16&hide_border=true&v=1" alt="Besty 的 GitHub 统计" />
   </picture>
 </a>
 <a href="https://www.micostar.cc">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/top-langs/?username=Besty0728&layout=compact&theme=transparent&locale=cn&border_radius=16&title_color=a855f7&text_color=e2e8f0&hide_border=true&langs_count=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/top-langs/?username=Besty0728&layout=compact&theme=transparent&locale=cn&border_radius=16&title_color=7c3aed&text_color=374151&hide_border=true&langs_count=8">
-    <img height="180em" src="https://github-readme-stats-ten-zeta-48.vercel.app/api/top-langs/?username=Besty0728&layout=compact&theme=transparent&locale=cn&border_radius=16&hide_border=true&langs_count=8" alt="常用语言" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/top-langs/?username=Besty0728&layout=compact&theme=transparent&locale=cn&border_radius=16&title_color=a855f7&text_color=e2e8f0&hide_border=true&langs_count=8&v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/top-langs/?username=Besty0728&layout=compact&theme=transparent&locale=cn&border_radius=16&title_color=7c3aed&text_color=374151&hide_border=true&langs_count=8&v=1">
+    <img height="180em" src="https://github-readme-stats-ten-zeta-48.vercel.app/api/top-langs/?username=Besty0728&layout=compact&theme=transparent&locale=cn&border_radius=16&hide_border=true&langs_count=8&v=1" alt="常用语言" />
   </picture>
 </a>
 
@@ -103,63 +103,63 @@
 
 <a href="https://github.com/Besty0728/fuwari">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=fuwari&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=fuwari&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=fuwari&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="fuwari" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=fuwari&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true&v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=fuwari&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true&v=1">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=fuwari&theme=transparent&locale=cn&border_radius=12&hide_border=true&v=1" alt="fuwari" />
   </picture>
 </a>
 
 <a href="https://github.com/Besty0728/Unity-Skills">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Unity-Skills&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Unity-Skills&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Unity-Skills&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="Unity-Skills" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Unity-Skills&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true&v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Unity-Skills&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true&v=1">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Unity-Skills&theme=transparent&locale=cn&border_radius=12&hide_border=true&v=1" alt="Unity-Skills" />
   </picture>
 </a>
 
 <a href="https://github.com/Besty0728/Prompt-Assistance">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Prompt-Assistance&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Prompt-Assistance&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Prompt-Assistance&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="Prompt-Assistance" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Prompt-Assistance&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true&v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Prompt-Assistance&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true&v=1">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Prompt-Assistance&theme=transparent&locale=cn&border_radius=12&hide_border=true&v=1" alt="Prompt-Assistance" />
   </picture>
 </a>
 
 <a href="https://github.com/Besty0728/EO-Random-Photo">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=EO-Random-Photo&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=EO-Random-Photo&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=EO-Random-Photo&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="EO-Random-Photo" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=EO-Random-Photo&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true&v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=EO-Random-Photo&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true&v=1">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=EO-Random-Photo&theme=transparent&locale=cn&border_radius=12&hide_border=true&v=1" alt="EO-Random-Photo" />
   </picture>
 </a>
 <a href="https://github.com/Besty0728/Gemini-CLI-Auth-Manager">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Gemini-CLI-Auth-Manager&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Gemini-CLI-Auth-Manager&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Gemini-CLI-Auth-Manager&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="Gemini-CLI-Auth-Manager" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Gemini-CLI-Auth-Manager&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true&v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Gemini-CLI-Auth-Manager&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true&v=1">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=Gemini-CLI-Auth-Manager&theme=transparent&locale=cn&border_radius=12&hide_border=true&v=1" alt="Gemini-CLI-Auth-Manager" />
   </picture>
 </a>
 
 <a href="https://github.com/Besty0728/MicoBlog">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=MicoBlog&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=MicoBlog&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=MicoBlog&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="MicoBlog" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=MicoBlog&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true&v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=MicoBlog&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true&v=1">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=MicoBlog&theme=transparent&locale=cn&border_radius=12&hide_border=true&v=1" alt="MicoBlog" />
   </picture>
 </a>
 <a href="https://github.com/Besty0728/TTS-UI">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=TTS-UI&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=TTS-UI&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=TTS-UI&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="TTS-UI" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=TTS-UI&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true&v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=TTS-UI&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true&v=1">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=TTS-UI&theme=transparent&locale=cn&border_radius=12&hide_border=true&v=1" alt="TTS-UI" />
   </picture>
 </a>
 
 <a href="https://github.com/Besty0728/OpenWebUI-EdgeOne-AI-Gemini">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=OpenWebUI-EdgeOne-AI-Gemini&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=OpenWebUI-EdgeOne-AI-Gemini&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true">
-    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=OpenWebUI-EdgeOne-AI-Gemini&theme=transparent&locale=cn&border_radius=12&hide_border=true" alt="OpenWebUI-EdgeOne-AI-Gemini" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=OpenWebUI-EdgeOne-AI-Gemini&theme=transparent&locale=cn&border_radius=12&title_color=a855f7&text_color=e2e8f0&icon_color=a855f7&hide_border=true&v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=OpenWebUI-EdgeOne-AI-Gemini&theme=transparent&locale=cn&border_radius=12&title_color=7c3aed&text_color=374151&icon_color=7c3aed&hide_border=true&v=1">
+    <img src="https://github-readme-stats-ten-zeta-48.vercel.app/api/pin/?username=Besty0728&repo=OpenWebUI-EdgeOne-AI-Gemini&theme=transparent&locale=cn&border_radius=12&hide_border=true&v=1" alt="OpenWebUI-EdgeOne-AI-Gemini" />
   </picture>
 </a>
 
