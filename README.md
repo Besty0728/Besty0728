@@ -18,7 +18,7 @@
 ---
 ## 👨‍💻 关于我
 
-> **Besty0728** · Unity 开发者 & 音乐爱好者 · 中国 🇨🇳
+> **Besty0728** · Unity 开发者 & 音乐爱好者
 
 **🎯 兴趣方向：**
 - 🎮 Unity/C# 游戏与交互开发
@@ -30,7 +30,7 @@
 
 **📚 正在学习：** Unity MR 开发 · Web 服务对接 · Linux 运维
 
-**💡 有趣的事：** *"用咖啡驱动代码，用音乐点亮灵感 ☕🎵"*
+**💡 有趣的事：** *"Love what I love, we are each other's eternal motivation"*
 
 ---
 
