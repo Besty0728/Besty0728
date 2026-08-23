@@ -15,8 +15,8 @@
 
 - 🌱 **Self-taught developer since early 2025** — from zero to a 1.6k★ open-source project in about a year
 - 🎮 **Author of [Unity-Skills](https://github.com/Besty0728/Unity-Skills)** — 1.6k★ · lets AI coding agents operate the Unity Editor directly via 700+ REST skills
-- 🥽 **MR/VR multiplayer** — PICO shared spatial anchors, LBE large-space shooter, server-authoritative netcode
-- 🤖 **AI toolchain** — tooling & automation around Claude Code / Gemini CLI
+- 🥽 **MR/VR multiplayer** — PICO shared spatial anchors, LBE large-space shooter
+- 🤖 **AI toolchain** — tooling & automation around Claude Code / Antigravity CLI
 - 🌐 **Self-hosting enthusiast** — Cloudflare / EdgeOne edge functions, image bed, blog, all built by myself
 - 🎵 Music lover · *"Love what I love, we are each other's eternal motivation"*
 
