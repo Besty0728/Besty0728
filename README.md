@@ -2,7 +2,7 @@
 
 <!-- 动态打字效果(官方 demolab 实例,比 herokuapp 稳定) -->
 <a href="https://www.micostar.cc">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=600&height=90&lines=%E2%9C%A8+%E6%B5%81%E8%BD%AC%E6%98%9F+(Betsy)+%E2%9C%A8;%F0%9F%8E%AE+Unity+%26+MR+Developer+%C2%B7+AI+Agent+Tooling;%F0%9F%8C%B1+Self-taught+since+early+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=800&height=90&lines=%E2%9C%A8+%E6%B5%81%E8%BD%AC%E6%98%9F+(Betsy)+%E2%9C%A8;%F0%9F%8E%AE+Unity+%26+MR+Developer+%C2%B7+AI+Agent+Tooling;%F0%9F%8C%B1+Self-taught+since+early+2025" alt="Typing SVG" />
 </a>
 
 </div>
