@@ -13,8 +13,8 @@
 
 > **流转星 (Betsy)** · Unity/MR Developer · AI Agent Tooling Author · Music Lover
 
-- 🌱 **Self-taught developer since early 2025** — from zero to a 1.6k★ open-source project in about a year
-- 🎮 **Author of [Unity-Skills](https://github.com/Besty0728/Unity-Skills)** — 1.6k★ · lets AI coding agents operate the Unity Editor directly via 700+ REST skills
+- 🌱 **Self-taught developer since early 2025** — from zero to a 1.9k★ open-source project in about a year
+- 🎮 **Author of [Unity-Skills](https://github.com/Besty0728/Unity-Skills)** — 1.9k★ · lets AI coding agents operate the Unity Editor directly via 870+ REST skills
 - 🥽 **MR/VR multiplayer** — PICO shared spatial anchors, LBE large-space shooter
 - 🤖 **AI toolchain** — tooling & automation around Claude Code / Antigravity CLI
 - 🌐 **Self-hosting enthusiast** — Cloudflare / EdgeOne edge functions, image bed, blog, all built by myself
